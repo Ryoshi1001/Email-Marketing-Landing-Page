@@ -1,5 +1,6 @@
 # Email-Marketing-Landing-Page
 Custom unbranded Landing-Page created all content, layout, logo, and idea.<br> 
+3-D Illustrations from https://wannathis.one/
 
 ![](Email-Hub-Landing-Page_.png)
 
@@ -15,11 +16,10 @@ Built with:
 - Adobe Express - Logo Maker
   
 ## Colors
-'headerclr': '#6259ff', 
-'lightblueclr': '#f5f8ff', 
-'footerdarkclr': '#3b2ae8',
-'textclr': '#6285e1',
-'bgdark': '#030712',
+- Header Blue: #6259ff 
+- Light Blue Background: #f5f8ff 
+- Dark Blue: #3b2ae8
+- Blue Text: #6285e1
 
 ## Typography
-- Family: [Roboto]([https://fonts.google.com/specimen/Be+Vietnam+Pro](https://fonts.google.com/specimen/Roboto))
+- Family: [Serif]
