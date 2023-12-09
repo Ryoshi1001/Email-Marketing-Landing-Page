@@ -2,7 +2,7 @@
 Custom unbranded Landing-Page created all content, layout, logo, and idea.<br> 
 3-D Illustrations from https://wannathis.one/
 
-![](Email-Hub-Landing-Page_.png)
+![](Email-Hub-Landing-Page-new.png)
 
 - Live Site URL: [https://ryoshi1001.github.io/Email-Marketing-Landing-Page/]
 
